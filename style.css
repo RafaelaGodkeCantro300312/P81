@@ -1,0 +1,15 @@
+h1
+{
+	color: rgb(255, 161, 120); 
+	font-size: 40px;
+}
+.bodyBackground {
+    background-image:url("corações.webp");
+}
+
+#myCanvas{
+    border-width:10px;
+    border-color:rgb(255, 161, 120);
+    border-style:ridge;
+    background-color:rgba(255, 161, 120, 0.537);
+}
